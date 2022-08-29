@@ -1,0 +1,25 @@
+Customer
+========
+customer Login
+customer Registration
+place order
+customer profile
+customer order history
+
+Vendor/Merchant
+===============
+Merchant Login
+Add or Remove Merchant/Register as Merchant
+order history of merchant
+accept/reject order
+add discounts
+
+
+Book
+====
+Add Book
+Remove Book
+update Book
+display Books
+display Books by author
+sort books by price
